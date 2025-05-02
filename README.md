@@ -1,4 +1,4 @@
 # UDITE
 7. úkol UDITE
 
-Já jsem Adam
+Já nejsem Adam
